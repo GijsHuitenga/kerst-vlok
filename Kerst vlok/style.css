@@ -1,0 +1,12 @@
+
+html {
+    padding-top: 20vh;
+    padding-left: 10vw;
+    background-color: white;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: grey;
+}
